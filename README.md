@@ -24,8 +24,8 @@ Apply dilation to the original image using the same structuring element to incre
 
  
 ## Program:
-### DEVELOPED BY : JANARTHANAN K
-### REG NO : 212223040072
+### DEVELOPED BY : Farhana H
+### REG NO : 212223230057
 
 # Import the necessary packages
 ```
